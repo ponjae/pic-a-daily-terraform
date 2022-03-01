@@ -1,0 +1,5 @@
+CREDENTIALS.json
+*.terraform*
+*.tfstate*
+code
+.DS_Store
